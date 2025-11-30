@@ -1,0 +1,6 @@
+keyboard
+mss
+numpy
+pywin32
+pynput
+requests
